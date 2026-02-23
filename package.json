@@ -1,0 +1,21 @@
+{
+  "name": "petshop",
+  "version": "1.0.0",
+  "description": "Projeto utilizado como base de ensino e treinamento, dos cursos de **informática**, principalmente de nível técnico - **IFSP**",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pietra-ff/PetShop.git"
+  },
+  "keywords": [],
+  "author": "Pietra Ferreira Onofre",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Pietra-ff/PetShop/issues"
+  },
+  "homepage": "https://github.com/Pietra-ff/PetShop#readme"
+}
